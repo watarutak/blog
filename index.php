@@ -1,6 +1,6 @@
 <?php
 /**
- * Add this line to branch_1
+ * Add this line to branch_1 -> merge to master
  *
  * CakePHP(tm) : Rapid Development Framework (http://cakephp.org)
  * Copyright (c) Cake Software Foundation, Inc. (http://cakefoundation.org)
